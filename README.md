@@ -3,6 +3,10 @@ Information:
 
 Languages and Tools:
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hola-sebas" alt="hola-sebas" />
+</p>
+
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
 </code>
 </code>
