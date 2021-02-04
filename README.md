@@ -1,7 +1,7 @@
 ### Hi there 👋
 Information:
-##[![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HuEkJ26R3E)
-[![](https://img.shields.io/badge/discord.js-v12.0.0-blue.svg?logo=npm)](https://github.com/discordjs)##
+[![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HuEkJ26R3E)
+[![](https://img.shields.io/badge/discord.js-v12.0.0-blue.svg?logo=npm)](https://github.com/discordjs)
 
 
 Languages and Tools:
